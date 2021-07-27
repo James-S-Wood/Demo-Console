@@ -1,0 +1,6 @@
+/Users/jameswood/RiderProjects/Demo-Console/bin/Debug/Demo_Console.exe
+/Users/jameswood/RiderProjects/Demo-Console/bin/Debug/Demo_Console.pdb
+/Users/jameswood/RiderProjects/Demo-Console/obj/Debug/Demo-Console.csproj.AssemblyReference.cache
+/Users/jameswood/RiderProjects/Demo-Console/obj/Debug/Demo-Console.csproj.CoreCompileInputs.cache
+/Users/jameswood/RiderProjects/Demo-Console/obj/Debug/Demo_Console.exe
+/Users/jameswood/RiderProjects/Demo-Console/obj/Debug/Demo_Console.pdb
