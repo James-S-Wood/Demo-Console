@@ -9,6 +9,7 @@ namespace Demo_Console
         {
 
             Console.WriteLine("This is me getting back into the game.");
+            Console.WriteLine("Let's add another line of text to the file.");
             
         }
     }
